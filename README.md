@@ -1,5 +1,5 @@
-# Contact form
+# Contact form secure
 
 ### By Nicolas Palay
 
-Simulation of a Contact Form.
+Securing of a Contact Form.
